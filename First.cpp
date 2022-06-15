@@ -2,6 +2,6 @@
 using namespace std;
 
 int main() {
-	cout << "First - Program - changes made by hosted repo" << endl;
+	cout << "First - Program - changes made by hosted repo-pull" << endl;
    return 0;
 }
