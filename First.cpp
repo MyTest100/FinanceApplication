@@ -3,6 +3,7 @@ using namespace std;
 
 int main() {
 	cout << "Welcome to GIT" << endl;
-	cout << "second message" << endl;	
+	cout << "Vanakkam GIT" << endl;	
+	cout << "Namaskara GIT" << endl; 
    return 0;
 }
